@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TaboolaAds_GroovyGuy", "TabooAds1\TabooAds1.vbproj", "{3C88F1A7-64E4-4126-8EDB-30361A225D03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C88F1A7-64E4-4126-8EDB-30361A225D03}.Debug|x86.ActiveCfg = Debug|x86
+		{3C88F1A7-64E4-4126-8EDB-30361A225D03}.Debug|x86.Build.0 = Debug|x86
+		{3C88F1A7-64E4-4126-8EDB-30361A225D03}.Release|x86.ActiveCfg = Release|x86
+		{3C88F1A7-64E4-4126-8EDB-30361A225D03}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
